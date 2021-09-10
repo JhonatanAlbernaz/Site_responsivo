@@ -1,0 +1,1070 @@
+body {
+    margin: 0;
+}
+
+.start-bootstrap {
+    padding-left: 9%;
+    color: #000000 !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.link-menu {
+    color: #000000 !important;
+    margin-right: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+}
+
+.start-bootstrap:hover {
+    color: #2937f0 !important;
+}
+
+.link-menu:hover {
+    color: #2937f0 !important;
+}
+
+.botao-menu {
+    border-radius: 40px;
+}
+
+.row-menu {
+    margin-left: 3rem!important;
+    padding-left: 3rem!important;
+}
+
+.menu-bobile {
+    display: none;
+}
+
+.menu-responsivo {
+	display: none;
+}
+
+.menu-monitor {
+    display: block;
+}
+
+.height-540 {
+    height: 600px;
+    margin-top: 9%;
+}
+
+.titulo-p-div {
+    font-size: 4rem;
+    font-family: 'Kaisei Tokumin', serif;
+    padding-left: 10%;
+}
+
+.texto-p-div {
+    color: #6c757d;
+    font-weight: 500;
+    font-size: 21px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icone-google-play {
+    font-size: 30px;
+    padding-left: 5%;
+    padding-top: 7%;
+    color: #00ffff;
+}
+
+.icone-apple-store {
+    font-size: 40px;
+    padding-left: 5%;
+    padding-top: 5%;
+    color: white;
+}
+
+.div-dawnload {
+    height: 60px;
+    background-color: black;
+    width: 30%;
+}
+
+.div-s-dawnload {
+    height: 60px;
+    background-color: black;
+    width: 26%;
+    position: absolute;
+    top: 73%;
+    left: 40%;
+}
+
+.div-conteudo-download {
+    position: absolute;
+    top: 71%;
+}
+
+.div-s-conteudo-download {
+    position: absolute;
+    top: -50%;
+}
+
+.span-get-it-on {
+    padding-left: 40%;
+    font-size: 11px;
+    color: white !important;
+}
+
+.span-download {
+    padding-left: 40%;
+    font-size: 10px;
+    color: white !important;
+    position: absolute;
+    top: 50%;
+}
+
+.span-google-play {
+    font-size: 20px;
+    padding-left: 41px;
+    color: white !important;
+}
+
+.span-app-store {
+    font-size: 20px;
+    padding-left: 41px;
+    color: white !important;
+}
+
+.rem {
+    padding-left: 3rem!important;
+    padding-top: 1rem!important;
+    margin-left: 1.5rem!important;
+}
+
+.div-rem {
+    padding-left: 3rem!important;
+    margin-top: 3rem!important;
+    margin-left: 1.5rem!important;
+}
+
+.imagem-principal {
+    height: 440px;
+}
+
+.height-330 {
+    height: 300px;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+
+.height-750 {
+    height: 630px;
+}
+
+.height-270 {
+    height: 270px;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+
+.texto-conteudo {
+    color: white;
+    padding-top: 5.5rem;
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.imagem-logo {
+    height: 3rem;
+}
+
+.cor-cinza {
+    color: grey;
+}
+
+.titulo-terceira-secao {
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.titulo-quarta-sessao {
+    font-family: 'Kaisei Tokumin', serif;
+    font-size: 2em;
+}
+
+.segunda-imagem {
+    height: 600px;
+}
+
+.icones {
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    color: rebeccapurple;
+}
+
+.padding-top-3 {
+    padding-top: 3rem!important;
+}
+
+.padding-top-6 {
+    padding-top: 6rem!important;
+}
+
+.margin-bottom-5 {
+    margin-bottom: 5em;
+}
+
+.col-quarta-secao {
+    padding-top: 10em;
+    padding-left: 7em;
+}
+
+.conteudo-quarta-sessao {
+    font-size: 1.35em;
+    color: grey;
+}
+
+.imagem-da-quarta-sessao {
+    height: 30em;
+    width: 30em;
+    border-radius: 100%;
+    margin-top: 5em;
+}
+
+.text-alingn-center {
+    text-align: center!important;
+}
+
+.espacamento {
+    padding-left: 4em;
+    padding-top: 11em;
+}
+
+.background-image {
+    background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDQzMzIwOQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+    background-position: center;
+    background-size: cover;
+    height: 630px;
+}
+
+.tituto-quinta-sessao {
+    font-size: 2.4em;
+    color: white;
+}
+
+.segundo-botao {
+    width: 11em;
+    height: 3.5em;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-top: 1em;
+}
+
+.segundo-botao:hover {
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+}
+
+.get {
+    color: white;
+    font-size: 1.1em;
+}
+
+.google-play {
+    height: 2.7em;
+    margin-right: 2em;
+}
+
+.app-store {
+    height: 2.7em;
+}
+
+.height-7 {
+    height: 8em;
+    background-color: black;
+}
+
+.link-rodape {
+    color: grey !important;
+    text-decoration: none !important;
+    font-size: 80%;
+    padding-right: 0.5em;
+}
+
+@media (max-width: 320px) {
+    .menu-monitor {
+        display: none;
+    }
+
+    .btn-light {
+        position: absolute;
+        left: 75%;
+        bottom: 5%;
+        background-color: white !important;
+        border: 1px solid gra
+    }
+
+    .menu-bobile {
+        display: block;
+    }
+
+    .botao-menu {
+        border-radius: 40px;
+        margin-left: 10%;
+        margin-top: -2%;
+    }
+
+    .row {
+        padding-right: 0px;
+    }
+
+    .link-menu {
+        color: #000000 !important;
+        margin-right: 5%;
+        text-decoration: none !important;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 10%;
+    }
+
+
+    .titulo-p-div {
+        font-size: 2rem;
+        font-family: 'Kaisei Tokumin', serif;
+        padding-left: 13%;
+        text-align: center;
+        margin-right: 10%;
+    }
+
+    .rem {
+        padding-left: 3rem!important;
+        padding-top: 1rem!important;
+        margin-left: 1rem!important;
+    }
+
+    .texto-p-div {
+        color: #6c757d;
+        font-weight: 500;
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        margin-right: 4em;
+    }
+
+    .div-rem {
+        padding-left: 3rem!important;
+        margin-top: 2rem!important;
+        margin-left: 0.9rem!important;
+    }
+
+    .div-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 86%;
+    }
+
+    .div-conteudo-download {
+        position: absolute;
+        top: 85%;
+    }
+
+    .div-s-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 62%;
+        position: absolute;
+        top: 102%;
+        left: 24%;
+    }
+
+    .imagem-principal {
+        height: 260px;
+        margin-left: 4%;
+    }
+
+    .height-540 {
+        height: 60rem;
+        margin-top: 9%;
+    }
+
+    .texto-conteudo {
+        color: white;
+        padding-top: 3rem;
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.5rem;
+        padding-left: 1rem;
+    }
+
+    .imagem-logo {
+        height: 3rem;
+        padding-left: 1rem;
+    }
+
+    .segunda-imagem {
+        height: 260px;
+        margin-left: 1em;
+        margin-top: -4em;
+    }
+
+    .padding-top-3 {
+        padding-top: 0rem!important;
+    }
+
+    .col-quarta-secao {
+        padding-top: 4.4em;
+        padding-left: 3em;
+    }
+
+    .titulo-quarta-sessao {
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.1em;
+    }
+
+    .conteudo-quarta-sessao {
+        font-size: 1.3em;
+        color: grey;
+        padding-right: 2.5em;
+    }
+
+    .imagem-da-quarta-sessao {
+        height: 7em;
+        width: 7em;
+        border-radius: 100%;
+        margin-top: 1em;
+    }
+
+    .height-750 {
+        height: 750px;
+    }
+
+    .espacamento {
+        padding-left: 2em;
+        padding-top: 11em;
+    }
+
+    .tituto-quinta-sessao {
+        font-size: 1.1em;
+        color: white;
+    }
+
+    .segundo-botao {
+        width: 11em;
+        height: 3.2em;
+        border-radius: 30px;
+        background-color: transparent;
+        border: 1px solid white;
+        color: white;
+        margin-top: 1em;
+    }
+
+    .background-image {
+        background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDQzMzIwOQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+        background-position: center;
+        background-size: cover;
+        height: 510px;
+    }
+
+    .get {
+        color: white;
+        font-size: 1em;
+    }
+
+    .google-play {
+        height: 2.7em;
+        margin-right: 1em;
+        margin-bottom: 1em;
+    }
+
+    .app-store {
+        height: 2.7em;
+        margin-right: 1em;
+    }
+
+    .height-270 {
+        height: 315px;
+        background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 375px) {
+    .titulo-p-div {
+        font-size: 2rem!important;
+        font-family: 'Kaisei Tokumin', serif;
+        padding-left: 16%;
+    }
+
+    .div-rem {
+        padding-left: 4rem!important;
+        margin-top: 2rem!important;
+        margin-left: 1.5rem!important;
+    }
+
+    .div-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 76%;
+    }
+
+    .menu-monitor {
+        display: none;
+    }
+
+    .btn-light {
+        position: absolute;
+        left: 75%;
+        bottom: 5%;
+        background-color: white;
+        border: 1px solid gra
+    }
+
+    .menu-bobile {
+        display: block;
+    }
+
+    .botao-menu {
+        border-radius: 40px;
+        margin-left: 10%;
+        margin-top: -2%;
+    }
+
+    .row {
+        padding-right: 0px;
+    }
+
+    .link-menu {
+        color: #000000 !important;
+        margin-right: 5%;
+        text-decoration: none !important;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 10%;
+    }
+
+    .div-conteudo-download {
+        position: absolute;
+        top: 85%;
+    }
+
+    .div-s-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 52%;
+        position: absolute;
+        top: 103%;
+        left: 28%;
+    }
+
+    .texto-p-div {
+        color: #6c757d;
+        font-weight: 500;
+        font-size: 21px;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        padding-right: 18%;
+    }
+
+    .imagem-principal {
+        height: 300px;
+        margin-left: 6%;
+    }
+
+    .height-540 {
+        height: 59rem;
+        margin-top: 9%;
+    }
+
+    .texto-conteudo {
+        color: white;
+        padding-top: 5rem;
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.5rem;
+        padding-left: 2%;
+    }
+
+    .imagem-logo {
+        height: 3rem;
+        padding-left: 0rem;
+    }
+
+    .segunda-imagem {
+        height: 400px;
+        margin-left: 1em;
+        margin-top: -4em;
+    }
+
+    .padding-top-3 {
+        padding-top: 0rem!important;
+    }
+
+    .titulo-quarta-sessao {
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1em;
+    }
+
+    .col-quarta-secao {
+        padding-top: 4em;
+        padding-left: 3em;
+    }
+
+    .conteudo-quarta-sessao {
+        font-size: 1.3em;
+        color: grey;
+        padding-right: 2em;
+    }
+
+    .imagem-da-quarta-sessao {
+        height: 11em;
+        width: 11em;
+        border-radius: 100%;
+        margin-top: 2em;
+    }
+
+    .height-750 {
+        height: 685px;
+    }
+
+    .espacamento {
+        padding-left: 2em;
+        padding-top: 11em;
+    }
+
+    .tituto-quinta-sessao {
+        font-size: 1.2em;
+        color: white;
+    }
+
+    .background-image {
+        background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDQzMzIwOQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+        background-position: center;
+        background-size: cover;
+        height: 525px;
+    }
+
+    .google-play {
+        height: 2.7em;
+        margin-right: 1em;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 576px) {
+    .menu-monitor {
+        display: none;
+    }
+
+    .btn-light {
+        position: absolute;
+        left: 75%;
+        bottom: 5%;
+        background-color: white !important;
+        border: 1px solid gra
+    }
+
+    .menu-bobile {
+        display: block;
+    }
+
+    .botao-menu {
+        border-radius: 40px;
+        margin-left: 10%;
+        margin-top: -2%;
+    }
+
+    .row {
+        padding-right: 0px;
+    }
+
+    .link-menu {
+        color: #000000 !important;
+        margin-right: 5%;
+        text-decoration: none !important;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 10%;
+    }
+
+    .titulo-p-div {
+        font-size: 2.5rem;
+        font-family: 'Kaisei Tokumin', serif;
+        padding-left: 10%;
+    }
+
+    .rem {
+        padding-left: 1rem!important;
+        padding-top: 1rem!important;
+        margin-left: 1.5rem!important;
+    }
+
+    .texto-p-div {
+        color: #6c757d;
+        font-weight: 500;
+        font-size: 21px;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        padding-right: 2em;
+    }
+
+    .div-rem {
+        padding-left: 5rem!important;
+        margin-top: 2rem!important;
+        margin-left: 1.5rem!important;
+    }
+
+    .div-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 63%;
+    }
+
+    .div-s-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 43%;
+        position: absolute;
+        top: 103%;
+        left: 28%;
+    }
+
+    .div-conteudo-download {
+        position: absolute;
+        top: 83%;
+    }
+
+    .imagem-principal {
+        height: 320px;
+        margin-left: 7%;
+    }
+
+    .height-540 {
+        height: 58rem;
+        margin-top: 9%;
+    }
+
+    .texto-conteudo {
+        color: white;
+        padding-top: 4rem;
+        margin-left: 0rem;
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.5rem;
+    }
+
+    .imagem-logo {
+        height: 3rem;
+        padding-left: 0rem;
+    }
+
+    .segunda-imagem {
+        height: 400px;
+        margin-left: 2em;
+        margin-top: -4em;
+    }
+
+    .padding-top-3 {
+        padding-top: 0rem!important;
+    }
+    
+    .col-quarta-secao {
+        padding-top: 6em;
+        padding-left: 4em;
+    }
+
+    .titulo-quarta-sessao {
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1em;
+    }
+
+    .conteudo-quarta-sessao {
+        font-size: 1.5em;
+        color: grey;
+    }
+
+    .imagem-da-quarta-sessao {
+        height: 14em;
+        width: 14em;
+        border-radius: 100%;
+        margin-top: 4em;
+    }
+    
+    .height-750 {
+        height: 790px;
+    }
+
+    .espacamento {
+        padding-left: 2em;
+        padding-top: 11em;
+    }
+
+    .tituto-quinta-sessao {
+        font-size: 1.3em;
+        color: white;
+    }
+
+    .background-image {
+        background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDQzMzIwOQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+        background-position: center;
+        background-size: cover;
+        height: 530px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .height-540 {
+        height: 66rem;
+        margin-top: 9%;
+    }
+
+    .menu-monitor {
+        display: none;
+    }
+
+    .btn-light {
+        position: absolute;
+        left: 75%;
+        bottom: 5%;
+        background-color: white !important;
+        border: 1px solid gra
+    }
+
+    .menu-bobile {
+        display: block;
+    }
+
+    .botao-menu {
+        border-radius: 40px;
+        margin-left: 5%;
+        margin-top: -2%;
+    }
+
+    .row {
+        padding-right: 0px;
+    }
+
+    .link-menu {
+        color: #000000 !important;
+        margin-right: 5%;
+        text-decoration: none !important;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 5%;
+    }
+
+    .titulo-p-div {
+        font-size: 4rem;
+        font-family: 'Kaisei Tokumin', serif;
+        padding-left: 17%;
+    }
+
+    .texto-p-div {
+        color: #6c757d;
+        font-weight: 500;
+        font-size: 21px;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        padding-right: 65px;
+    }
+
+    .div-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 30%;
+        margin-left: 30%;
+        margin-top: -3%;
+    }
+
+    .div-s-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 26%;
+        position: absolute;
+        top: 103%;
+        left: 18.1rem;
+    }
+
+    .div-conteudo-download {
+        position: absolute;
+        top: 82%;
+    }
+
+    .div-s-conteudo-download {
+        position: absolute;
+        top: -50%;
+        left: 10%;
+    }
+
+    .imagem-principal {
+        height: 420px;
+        margin-left: 25%;
+        margin-top: 6%;
+    }
+
+    .texto-conteudo {
+        color: white;
+        padding-top: 4.1rem;
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.7rem;
+    }
+
+    .height-330 {
+        height: 260px;
+        background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+    }
+
+    .padding-top-3 {
+        padding-top: 0rem!important;
+    }
+
+    .segunda-imagem {
+        height: 500px;
+        margin-top: -4em;
+    }
+
+    .col-quarta-secao {
+        padding-top: 5em;
+        padding-left: 5em;
+    }
+
+    .titulo-quarta-sessao {
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.3em;
+    }
+
+    .conteudo-quarta-sessao {
+        font-size: 1.3em;
+        color: grey;
+        padding-right: 3em;
+    }
+
+    .imagem-da-quarta-sessao {
+        height: 18em;
+        width: 18em;
+        border-radius: 100%;
+        margin-top: 2em;
+    }
+
+    .height-750 {
+        height: 670px;
+    }
+
+    .espacamento {
+        padding-left: 2em;
+        padding-top: 11em;
+    }
+
+    .tituto-quinta-sessao {
+        font-size: 1.8em;
+        color: white;
+    }
+
+    .background-image {
+        background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDQzMzIwOQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+        background-position: center;
+        background-size: cover;
+        height: 570px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+    .menu-monitor {
+        display: block;
+    }
+
+    .menu-bobile {
+        display: none;
+    }
+
+    .row-menu {
+        margin-left: -1rem!important;
+        padding-left: 0rem!important;
+    }
+
+    .titulo-p-div {
+        font-size: 3rem;
+        font-family: 'Kaisei Tokumin', serif;
+        padding-left: 10%;
+    }
+
+    .rem {
+        padding-left: 1.7rem!important;
+        padding-top: 1rem!important;
+    }
+
+    .div-rem {
+        padding-left: 1.9rem!important;
+        margin-top: 3rem!important;
+        margin-left: 1.5rem!important;
+    }
+
+    .icone-google-play {
+        font-size: 30px;
+        padding-left: 5%;
+        padding-top: 8%;
+        color: #00ffff;
+    }
+
+    .div-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 40%;
+    }
+
+    .div-s-dawnload {
+        height: 60px;
+        background-color: black;
+        width: 34%;
+        position: absolute;
+        top: 71%;
+        left: 50%;
+    }
+
+    .div-conteudo-download {
+        position: absolute;
+        top: 70%;
+    }
+
+    .botao-menu {
+        border-radius: 40px;
+        margin-left: -8%;
+    }
+
+    .link-menu {
+        color: #000000 !important;
+        margin-right: 5%;
+        text-decoration: none !important;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: -7%;
+        margin-right: 12%;
+    }
+
+    .segunda-imagem {
+        height: 550px;
+    }
+
+    .col-quarta-secao {
+        padding-top: 5em;
+        padding-left: 4em;
+    }
+
+    .titulo-quarta-sessao {
+        font-family: 'Kaisei Tokumin', serif;
+        font-size: 1.8em;
+    }
+
+    .conteudo-quarta-sessao {
+        font-size: 1.25em;
+        color: grey;
+        margin-right: 6em;
+    }
+
+    .imagem-da-quarta-sessao {
+        height: 29em;
+        width: 27em;
+        border-radius: 100%;
+        margin-top: 5em;
+        text-align: center;
+    }
+
+    .text-alingn-center {
+        text-align: left !important;
+    }
+
+    .height-750 {
+        height: 625px;
+    }
+}
+
+@media (min-width: 1201px) {
+    
+}
